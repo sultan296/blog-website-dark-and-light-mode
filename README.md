@@ -1,1 +1,3 @@
 # blog-website-dark-and-light-mode
+
+I created a blog website that shows stunning dark mode website using HTML, CSS and JavaScript. This website features a minimalist design with a hero section and multiple card layouts to showcase posts and modern dark theme. I learn how to implement essential features like a toggle button to switch between light and dark modes and started up by setting up a structured folder system that includes separate HTML files for the home page and post pages. The navigation bar allows users to easily navigate between different sections of the website with easy-to-follow instructions and practical examples, I equipped to convert any website into a visually appealing dark mode design.
